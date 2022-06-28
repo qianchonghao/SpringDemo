@@ -1,6 +1,6 @@
 package com.example.springdemo.ApplicationListener;
 
-import com.example.springdemo.utils.PropertiesUtils;
+import com.example.springdemo.RunListener.utils.PropertiesUtils;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;

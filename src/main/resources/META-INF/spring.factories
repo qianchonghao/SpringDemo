@@ -1,2 +1,2 @@
 #org.springframework.boot.SpringApplicationRunListener=com.example.springdemo.RunListener.IApplicationRunListener
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.springdemo.BeanDefinitionRegistry.BeanDefinitionRegistry
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.springdemo.BeanDefinitionRegistry.FactoryBean.BeanDefinitionRegistry

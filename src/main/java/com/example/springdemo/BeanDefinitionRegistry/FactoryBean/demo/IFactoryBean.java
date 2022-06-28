@@ -1,6 +1,6 @@
 package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.demo;
 
-import com.example.springdemo.BeanDefinitionRegistry.Model.DataSource;
+import com.example.springdemo.BeanDefinitionRegistry.FactoryBean.model.DataSource;
 import org.springframework.beans.factory.FactoryBean;
 import org.springframework.stereotype.Component;
 

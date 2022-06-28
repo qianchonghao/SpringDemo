@@ -1,4 +1,4 @@
-package com.example.springdemo.BeanDefinitionRegistry.utils;
+package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.utils;
 
 import org.springframework.boot.context.properties.bind.Bindable;
 import org.springframework.boot.context.properties.bind.Binder;

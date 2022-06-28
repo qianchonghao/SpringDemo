@@ -1,6 +1,7 @@
-package com.example.springdemo.BeanDefinitionRegistry.Model;
+package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.model;
 
-public class SearchClient {
+
+public class DataSource {
     private String userName;
     private String passWord;
     private String host;

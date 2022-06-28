@@ -1,5 +1,6 @@
-package com.example.springdemo.BeanDefinitionRegistry.Model;
+package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.model;
 
+import javax.sql.DataSource;
 public class RepoContext {
 
     DataSource dataSource;
@@ -8,6 +9,9 @@ public class RepoContext {
     public RepoContext(DataSource dataSource, SearchClient searchClient) {
         this.dataSource = dataSource;
         this.searchClient = searchClient;
+    }
+
+    public RepoContext() {
     }
 
     public DataSource getDataSource() {

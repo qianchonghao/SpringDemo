@@ -1,4 +1,4 @@
-package com.example.springdemo.BeanDefinitionRegistry;
+package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.annotation;
 
 import java.lang.annotation.*;
 

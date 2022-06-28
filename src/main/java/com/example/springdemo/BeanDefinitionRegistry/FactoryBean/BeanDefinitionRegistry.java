@@ -1,11 +1,10 @@
-package com.example.springdemo.BeanDefinitionRegistry;
+package com.example.springdemo.BeanDefinitionRegistry.FactoryBean;
 
 import com.alibaba.fastjson.JSONObject;
 
-import com.example.springdemo.BeanDefinitionRegistry.FactoryBean.FactoryBeanImpl.RepoContextFactoryBean;
-import com.example.springdemo.BeanDefinitionRegistry.FactoryBean.FactoryBeanConst;
-import com.example.springdemo.BeanDefinitionRegistry.Model.DataSource;
-import com.example.springdemo.BeanDefinitionRegistry.utils.BinderUtils;
+import com.example.springdemo.BeanDefinitionRegistry.FactoryBean.factoryBeanImpl.RepoContextFactoryBean;
+import com.example.springdemo.BeanDefinitionRegistry.FactoryBean.model.DataSource;
+import com.example.springdemo.BeanDefinitionRegistry.FactoryBean.utils.BinderUtils;
 import com.google.common.collect.Lists;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.config.BeanDefinition;
