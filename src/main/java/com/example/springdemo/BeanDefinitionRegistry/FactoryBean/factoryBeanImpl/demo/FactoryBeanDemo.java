@@ -1,4 +1,4 @@
-package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.demo;
+package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.factoryBeanImpl.demo;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.InitializingBean;

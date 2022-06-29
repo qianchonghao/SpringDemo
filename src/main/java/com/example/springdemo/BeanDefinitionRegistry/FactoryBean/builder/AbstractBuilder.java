@@ -24,4 +24,16 @@ public abstract class AbstractBuilder<T> implements Builder<T> {
         return doBuild(properties);
     }
 
+//    public T build(Properties properties, String prefix) {
+//        Properties properties = getConfig(environment, prefix);
+//
+//        String type = (String) properties.get("type");
+//        if (!isAccept(type)) {
+//            System.out.println(">>>>>>>>> required type is " + type);
+//            return null;
+//        }
+//        return doBuild(properties);
+//    }
+
+
 }

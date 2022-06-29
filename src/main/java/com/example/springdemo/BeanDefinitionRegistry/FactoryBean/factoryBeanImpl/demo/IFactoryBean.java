@@ -1,4 +1,4 @@
-package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.demo;
+package com.example.springdemo.BeanDefinitionRegistry.FactoryBean.factoryBeanImpl.demo;
 
 import com.example.springdemo.BeanDefinitionRegistry.FactoryBean.model.DataSource;
 import org.springframework.beans.factory.FactoryBean;
